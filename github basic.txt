@@ -1,0 +1,27 @@
+version control:- 
+
+
+
+famous version control System(VCS) :- Git(72%),
+                          Bazaar(0%),
+                          CVS(1%),
+                          Subversion(23%),
+                          mercurial(1%).
+ git is the most powerful and popular version control system nowdays.
+
+git:-(distributrd version control system) git is a program which is used to track changes in the source code during the development,but it cn be used with any type of files.
+      the basic difference between the gate and other version control systems is that it doesn't store differences  in files
+      it stores linkess to the snapchat of changed files in case file wasn't changed git doesn't store this file again instead it stores just a link to the previoius
+      identical files that was already stored.
+   
+CENTRALIZED vs DISTRIBUTED VCS-
+    
+                  CENTRALIZED                                                  DISTRIBUTED    
+   
+In centralized system all engineers are connected                            Each engineer has a copy of the whole project and can easily
+to the main server and all people collaborate through                         restore it if needed or in case there is no network get is a 
+that server.                                                                    distributed version control to perform most of operations.
+
+Biggest drawback here is the fact that when central server                      there is .git hidden folder present whict conatains all information 
+id down , you can't collaborate in distributed                                  about the repository and no need gto conect to internet for perform opertions
+                                                                                 
