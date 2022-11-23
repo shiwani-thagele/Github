@@ -24,4 +24,26 @@ that server.                                                                    
 
 Biggest drawback here is the fact that when central server                      there is .git hidden folder present whict conatains all information 
 id down , you can't collaborate in distributed                                  about the repository and no need gto conect to internet for perform opertions
+
+
+Day-2:
+git installations: https://git-scm.com/downloads (accoring to system install git to your system).
+about gitbash: 
+Git-Configuration levels(cofig. level can be inherited from lower level to upper ) :- system: all users + all  their repositories.                                                                                                                                   global: all repositories on the computer for current user.                                                                                                                     local: only current repository.                                  
+ repository:-  a git repository is a .git folder inside the project , the reposity contains multiple files with conndfiguration and current project history to track all changes   made to files to project.                                                                                 
+   
+   git name and email registration : inside git bash
+                                       git config --global user.name "name"
+                                       git config --global user.email "xyz@gmail.com"
+                                       git config --list (list out the files)
+                                       git config --global core.editor "c:/program file/Notepad++/notepad++.exe"(for change the default code editor).
+ 
+ 
+   
+                            
+
+
+
+
+
                                                                                  
