@@ -44,7 +44,7 @@ Git-Configuration levels(cofig. level can be inherited from lower level to upper
       master is our single and the main branch which we have right after repository creation
       files can exist in one or two states -1 tracked 2.untracked 
          track file : git add file_name 
-                      git status (used for checked status of the repositories)/git status -s(for short description)
+                      git status (used for checked status of the repositories)/git status -s(for short description
                       control+l (clear screen in gitbesh )
                       git add * .java(.java used for all the java files we want to add in the respository)
                        git add . (. means all posible names and extensions and if we will check its status now, we are going to see that now all file are ready to commit )
@@ -53,7 +53,7 @@ help in github commands by just specify the help keyword eg- git status help/h
                          
                             
 
-
+github resourses also present ingithub official website
 
 
 
