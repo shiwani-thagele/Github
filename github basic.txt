@@ -53,7 +53,8 @@ help in github commands by just specify the help keyword eg- git status help/h
                          
                             
 
-github resourses also present ingithub official website
+github resourses also present ingithub official website /https://www.atlassian.com/git/glossary
+ for interview:https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
 
 
 
